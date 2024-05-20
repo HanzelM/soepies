@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Soepies</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/soepies/posts/</link>
     <description>Recent content in Posts on Soepies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/soepies/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>licht pittige dahl met linzen en appel</title>
-      <link>http://localhost:1313/posts/dal1/</link>
+      <link>http://localhost:1313/soepies/posts/dal1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dal1/</guid>
+      <guid>http://localhost:1313/soepies/posts/dal1/</guid>
       <description>licht pittige dal met linzen en appel ingredienten voor 3 liter soep&#xA;rode linzen (250 gram) twee appels tomatenpuree (twee eetlepels of een klein blikje) tomatenpulp (of gehakte tomaten (250 ml) verse gember (grote duim) bolletje knoflook rode uien (vier of vijf) halve eetlepel ketoembar (gemalen korianderzaad) halve eetlepel djintan (gemalen komijn) kwart eetlepel gemalen kardemom kwart eetlepel koennjit (gemalen kurkuma) chili of cayenne peper naar smaak gemalen zwarte peper groenteboullion kokosmelk benodigd kookgerei wat behoorlijk essesntieel is</description>
     </item>
   </channel>

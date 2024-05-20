@@ -1,4 +1,4 @@
-baseURL = 'https://hanzelm.github.io/'
+baseURL = 'https://hanzelm.github.io/soepies'
 languageCode = 'en-us'
 title = 'Soepies'
 theme = 'ananke'
