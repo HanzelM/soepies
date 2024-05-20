@@ -7,7 +7,7 @@ draft = false
 
 **ingredienten voor 3 liter soep** 
 
-- rode Linzen (250 gram)
+- rode linzen (250 gram)
 - twee appels
 - tomatenpuree (twee eetlepels of een klein blikje)
 - tomatenpulp (of gehakte tomaten (250 ml)
