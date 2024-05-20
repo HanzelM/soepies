@@ -1,5 +1,5 @@
 +++
-title = 'licht pittige dal met linzen en appel'
+title = 'licht pittige dahl met linzen en appel'
 draft = false
 +++
 
@@ -59,5 +59,5 @@ lekker erbij:
 - yoghurt
 - limoen of citroen sap
 - naan
-- papdum
+- papadum
 
