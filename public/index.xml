@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soepies</title>
+    <title>home on Soepies</title>
     <link>http://localhost:1313/HanzelM/soepies/</link>
-    <description>Recent content on Soepies</description>
+    <description>Recent content in home on Soepies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 16:13:14 +0200</lastBuildDate>
