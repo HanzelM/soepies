@@ -2,16 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/soepies/categories/</loc>
+    <loc>https://hanzelm.github.io/soepies/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/soepies/gegrilde-paprika-tomaat/</loc>
+    <loc>https://hanzelm.github.io/soepies/posts/gegrilde-paprika-tomaat/</loc>
   </url><url>
-    <loc>http://localhost:1313/soepies/</loc>
+    <loc>https://hanzelm.github.io/soepies/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/soepies/posts/dal1/</loc>
+    <loc>https://hanzelm.github.io/soepies/</loc>
   </url><url>
-    <loc>http://localhost:1313/soepies/posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/soepies/tags/</loc>
+    <loc>https://hanzelm.github.io/soepies/tags/</loc>
   </url>
 </urlset>
