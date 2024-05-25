@@ -5,7 +5,7 @@ draft = false
 
 **ingredienten voor 2 liter soep** 
 
-effe snel veel soep in een handomdraai
+soep in een handomdraai
 
 - zes rode (punt) paprika's (ingemaakt is sneller)
 - tomaten in blokjes gehakt, uit blik is prima, ~ 500 gram tot een kilo
