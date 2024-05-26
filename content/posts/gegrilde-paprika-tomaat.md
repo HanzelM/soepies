@@ -12,7 +12,7 @@ soep in een handomdraai
 - halve bol knoflook
 - anderhalve liter groentebloullion 
 
-gril de paprika's tot de schil zwart ziet onder de gril of hoog vuur en verpak dan voor een paar minuten in een afgelsoten container (plastic zak werkt prima) 
+gril de paprika's tot de schil zwart ziet onder de gril of hoog vuur en verpak dan voor een paar minuten in een afgesloten container (plastic zak werkt prima) 
 
 door het afsluiten stoomt de paprika zich gaar, pel de schil er af, verwijder de zaden en snij in stukken (makkelijke optie is ingemaakte paprika stukken, die zijn vaak wat zuurder, ook goed voor de smaak)
 
