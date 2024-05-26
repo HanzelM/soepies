@@ -1,4 +1,4 @@
 baseURL = 'https://soepies.mzaha.net'
-languageCode = 'en-us'
+languageCode = 'nl-NL'
 title = 'Soepies'
 theme = 'ananke'
