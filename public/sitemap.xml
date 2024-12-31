@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://soepies.mzaha.net/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/gegrilde-paprika-tomaat/</loc>
+    <loc>https://soepies.mzaha.net/posts/gegrilde-paprika-tomaat/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/licht-pittige-dahl-met-linzen-en-appel/</loc>
+    <loc>https://soepies.mzaha.net/posts/licht-pittige-dahl-met-linzen-en-appel/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/licht-pittige-sucuk-met-groenten-soep/</loc>
+    <loc>https://soepies.mzaha.net/posts/licht-pittige-sucuk-met-groenten-soep/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://soepies.mzaha.net/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://soepies.mzaha.net/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://soepies.mzaha.net/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://soepies.mzaha.net/tags/</loc>
   </url>
 </urlset>
