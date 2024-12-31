@@ -3,8 +3,6 @@ title = 'licht pittige dahl met linzen en appel'
 draft = false
 +++
 
-## licht pittige dal met linzen en appel
-
 **ingredienten voor 3 liter soep** 
 
 - rode linzen (250 gram)
