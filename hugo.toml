@@ -3,5 +3,5 @@ languageCode = 'nl-NL'
 title = 'Soepies'
 theme = 'ananke'
 sectionPagesMenu = 'main'
-summaryLength = 10
+summaryLength = 5
 
