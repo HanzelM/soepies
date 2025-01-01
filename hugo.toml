@@ -1,7 +1,7 @@
 baseURL = 'https://soepies.mzaha.net'
 languageCode = 'nl-NL'
 title = 'Soepies'
-theme = 'ananke'
+# theme = 'ananke'
 sectionPagesMenu = 'main'
 summaryLength = 5
 
