@@ -45,4 +45,4 @@ groenten erbij, boullion erbij en laten pruttelen tot de worten en aardappel gaa
 lekker erbij:
 - simit
 - limoen of citroen sap
-_ chilivlokken
+- chilivlokken
